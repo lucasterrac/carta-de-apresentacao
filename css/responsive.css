@@ -17,12 +17,12 @@
         text-align: center;
     }
 
-    main .main-content .text, .techs p {
+    main .main-content .text p {
         width: 100%;
         font-size: 0.9em;
     }
 
-    main .techs .card-container, .main-content .text p {
+    main .techs .cards-container, .main-content .text p {
         margin-top: 32px;
     }
 }
